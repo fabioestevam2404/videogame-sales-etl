@@ -1,0 +1,4 @@
+
+-- Criar schema para organização
+CREATE SCHEMA IF NOT EXISTS staging;
+CREATE SCHEMA IF NOT EXISTS analytics;
